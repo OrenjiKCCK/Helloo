@@ -6,6 +6,7 @@ body {
       }
 img {
     width: 500px;
+    border: 5px solid #054e05;
 }
 h1{
     font-family:Oswald;
